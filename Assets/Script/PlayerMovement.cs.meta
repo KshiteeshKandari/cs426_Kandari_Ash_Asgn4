@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a29df3f32ea919443a39dfc0c4985dbf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - holdPoint: {instanceID: 0}
+  - heldObject: {instanceID: 0}
+  - cameratransform: {fileID: 3737448372317512062, guid: 1d25a4cf042a3ba4cab3aaa542538b39, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
